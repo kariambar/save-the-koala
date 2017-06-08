@@ -152,8 +152,7 @@ text-align:right;
 .five-section{
 	width: 100%;
 	background-color: #fff;
-	height: 50vh;
-	padding: 4rem;
+	padding: 6rem;
 }
 
 .fa{
@@ -162,8 +161,35 @@ text-align:right;
 	color: #939349;
 }
 
+/*sexta seccion*/
+
 .six-section{
 	background-color: #a89f68;
 	width: 100%;
 	padding: 6rem;
+}
+
+.gigante{
+	color:white;
+	font-size: 50px;
+	font-weight: 900;
+}
+
+footer{
+	background-color: #41521f;
+	padding: 6rem;
+	width: 100%;
+}
+
+#footer-section{
+	background-color: #41521F;
+}
+#footer-section p{
+	color: #fff;
+}
+.nav-footer{
+	margin: 0 auto;
+}
+.nav-footer ul li{
+	list-style: none;
 }
