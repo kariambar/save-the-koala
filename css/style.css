@@ -94,7 +94,7 @@ army green: 41521F;
 }
 /*Tercera seccion*/
 
-.tercera{
+.three-section{
 background-color: #a89f68;
 width: 100%;
 padding: 4rem;
@@ -112,9 +112,6 @@ padding: 4rem;
 	background-color: #5e772b;
 	border-color: #5e772b; 
 }
-
-
-
 .primero{
 	color: white;
 	font-weight: 200;
@@ -135,14 +132,32 @@ padding: 4rem;
 	width: 100%;
 }
 
-#fourth-section img{
-	border: 10px solid #fff;
-}
+/*CUARTA seccion*/
 
 
 .four-section{
 	background-image: url(../img/all.jpg);
-	height: 150vh;
+	height: 140vh;
 	background-repeat: no-repeat;
 	background-size: cover;
+}
+.cuarta{
+color: white;
+margin-top: 5em;
+text-align:right;
+}
+
+/*Quinta seccion*/
+
+.five-section{
+	width: 100%;
+	background-color: #fff;
+	height: 50vh;
+	padding: 4rem;
+}
+
+.fa{
+	font-size: 6rem;
+	padding: 2rem;
+	color: #939349;
 }
