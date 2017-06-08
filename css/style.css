@@ -6,9 +6,21 @@ army green: 41521F;
 .first-section{
 	background-image: url(../img/portada.jpg);
 	height: 100vh;
-	background-size: cover;
+	background-size: auto;
 	background-repeat: no-repeat;
 	width: 100%;
+}
+
+.logo{
+	color: #fff;
+	font-size: 18px;
+	font-weight: 900;
+	padding: 0 16rem;
+	cursor: pointer;
+}
+
+.letras ul li a{
+	color: #fff;
 }
 
 #sumo{
@@ -27,3 +39,16 @@ army green: 41521F;
 	font-weight: 200;
 	font-size: 14px;
 }
+
+.btn-primary{
+	color: #fff;
+	background-color: #41521F;
+	border-color: #41521F; 
+}
+
+.btn-primary:hover{
+	color: #fff;
+	background-color: #5e772b;
+	border-color: #5e772b; 
+}
+
