@@ -179,17 +179,28 @@ footer{
 	background-color: #41521f;
 	padding: 6rem;
 	width: 100%;
+	color: #a89f68;
 }
 
-#footer-section{
-	background-color: #41521F;
+.abajo{
+	display: inline-block;
 }
-#footer-section p{
-	color: #fff;
-}
-.nav-footer{
+
+.abajo ul{
 	margin: 0 auto;
 }
-.nav-footer ul li{
+.abajo ul li{
 	list-style: none;
+}
+
+.abajo ul li a{
+	color: #a89f68;
+}
+
+.abajo ul li a:hover{
+	color: #fff;
+}
+
+.parrafofin{
+	color: #fff;
 }
