@@ -95,7 +95,7 @@ army green: 41521F;
 
 .tercera{
 	background-color: #a89f68;
-	height: 60vh;
+	height: 80vh;
 	width: 100%;
 }
 
@@ -111,18 +111,31 @@ army green: 41521F;
 	border-color: #5e772b; 
 }
 
-.easy{
-	padding: 10rem;
-}
+
 
 .primero{
 	color: white;
 	font-weight: 200;
+	margin-top: 10em;
 }
 
 .save{
 	color:#41521f;
 	font-weight: 900;
+}
+
+.text{
+	color: white;
+	font-weight: 200;
+}
+
+.cosita{
+   padding:8px; 
+   background-color: #f5f5f5; 
+   border: 1px solid #999999;
+   margin-top: 8rem;
+   display: block;
+   width: 80%;
 }
 
 .four-section{
