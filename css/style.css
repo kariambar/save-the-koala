@@ -92,12 +92,14 @@ army green: 41521F;
 	font-size: 11px;
 	color: #656860;
 }
+/*Tercera seccion*/
 
 .tercera{
-	background-color: #a89f68;
-	height: 80vh;
-	width: 100%;
+background-color: #a89f68;
+width: 100%;
+padding: 4rem;
 }
+
 
 .btn-secondary{
 	color: #fff;
@@ -116,7 +118,6 @@ army green: 41521F;
 .primero{
 	color: white;
 	font-weight: 200;
-	margin-top: 10em;
 }
 
 .save{
@@ -129,19 +130,19 @@ army green: 41521F;
 	font-weight: 200;
 }
 
-.cosita{
-   padding:8px; 
-   background-color: #f5f5f5; 
-   border: 1px solid #999999;
-   margin-top: 8rem;
-   display: block;
-   width: 80%;
+.img-responsive{
+	border: 10px solid #fff;
+	width: 100%;
 }
+
+#fourth-section img{
+	border: 10px solid #fff;
+}
+
 
 .four-section{
 	background-image: url(../img/all.jpg);
-	height: 100vh;
-	background-size: cover;
+	height: 150vh;
 	background-repeat: no-repeat;
-	width: 100%;
+	background-size: cover;
 }
