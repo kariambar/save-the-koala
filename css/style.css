@@ -55,6 +55,7 @@ army green: 41521F;
 .second-section{
 	width: 100%
 	height:100vh;
+	background-color: #fff;
 }
 
 .tres{
@@ -64,7 +65,7 @@ army green: 41521F;
 }
 
 .pequeño{
-	margin-top: 20rem;
+	margin-top: 12rem;
 	font-size: 12px;
 	color: #656860;
 }
@@ -89,4 +90,44 @@ army green: 41521F;
 .fuentes{
 	font-size: 11px;
 	color: #656860;
+}
+
+.tercera{
+	background-color: #a89f68;
+	height: 60vh;
+	width: 100%;
+}
+
+.btn-secondary{
+	color: #fff;
+	background-color: #41521F;
+	border-color: #41521F; 
+}
+
+.btn-secondary:hover{
+	color: #fff;
+	background-color: #5e772b;
+	border-color: #5e772b; 
+}
+
+.easy{
+	padding: 10rem;
+}
+
+.primero{
+	color: white;
+	font-weight: 200;
+}
+
+.save{
+	color:#41521f;
+	font-weight: 900;
+}
+
+.four-section{
+	background-image: url(../img/all.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
 }
